@@ -6,10 +6,10 @@ import util.TwitterUtil;
 import data.TwitterAcountDataList;
 
 /**
- * メンションをゲットするクラス。
+ * 自分のツイート表示。ID指定して好きな人の表示させるほうがいいかもしれん。
  * ホームタイムラインを親クラスとして設定している（状況に応じて独立させる）
  *
- * @author さん
+ * @author neoenox
  *
  */
 public class OwnTimeLineFragment extends HomeTimeLineFragment {
